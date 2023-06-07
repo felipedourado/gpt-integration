@@ -1,0 +1,272 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration\\GptIntegration.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Domain\\GptIntegration.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Domain\\GptIntegration.Domain.csproj",
+        "projectName": "GptIntegration.Domain",
+        "projectPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Domain\\GptIntegration.Domain.csproj",
+        "packagesPath": "C:\\Users\\DESKTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DESKTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Infra\\GptIntegration.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Infra\\GptIntegration.Infra.csproj",
+        "projectName": "GptIntegration.Infra",
+        "projectPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Infra\\GptIntegration.Infra.csproj",
+        "packagesPath": "C:\\Users\\DESKTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DESKTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Domain\\GptIntegration.Domain.csproj": {
+                "projectPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Domain\\GptIntegration.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "OpenAI": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Services\\GptIntegration.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Services\\GptIntegration.Services.csproj",
+        "projectName": "GptIntegration.Services",
+        "projectPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Services\\GptIntegration.Services.csproj",
+        "packagesPath": "C:\\Users\\DESKTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DESKTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Domain\\GptIntegration.Domain.csproj": {
+                "projectPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Domain\\GptIntegration.Domain.csproj"
+              },
+              "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Infra\\GptIntegration.Infra.csproj": {
+                "projectPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Infra\\GptIntegration.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration\\GptIntegration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration\\GptIntegration.csproj",
+        "projectName": "GptIntegration",
+        "projectPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration\\GptIntegration.csproj",
+        "packagesPath": "C:\\Users\\DESKTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DESKTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Services\\GptIntegration.Services.csproj": {
+                "projectPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\GptIntegration\\GptIntegration.Services\\GptIntegration.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

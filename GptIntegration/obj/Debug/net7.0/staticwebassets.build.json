@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bexGN2UCJLatsPueiGWkx1ZannpOo1FwIjGoj1mVxnA=",
+  "Source": "GptIntegration",
+  "BasePath": "_content/GptIntegration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
