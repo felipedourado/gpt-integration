@@ -1,0 +1,15 @@
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\GptIntegration\GptIntegration.Infra\bin\Debug\net7.0\GptIntegration.Infra.deps.json
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\GptIntegration\GptIntegration.Infra\bin\Debug\net7.0\GptIntegration.Infra.dll
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\GptIntegration\GptIntegration.Infra\bin\Debug\net7.0\GptIntegration.Infra.pdb
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\GptIntegration\GptIntegration.Infra\bin\Debug\net7.0\GptIntegration.Domain.dll
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\GptIntegration\GptIntegration.Infra\bin\Debug\net7.0\GptIntegration.Domain.pdb
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\GptIntegration\GptIntegration.Infra\obj\Debug\net7.0\GptIntegration.Infra.csproj.AssemblyReference.cache
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\GptIntegration\GptIntegration.Infra\obj\Debug\net7.0\GptIntegration.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\GptIntegration\GptIntegration.Infra\obj\Debug\net7.0\GptIntegration.Infra.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\GptIntegration\GptIntegration.Infra\obj\Debug\net7.0\GptIntegration.Infra.AssemblyInfo.cs
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\GptIntegration\GptIntegration.Infra\obj\Debug\net7.0\GptIntegration.Infra.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\GptIntegration\GptIntegration.Infra\obj\Debug\net7.0\GptIntegration.Infra.csproj.CopyComplete
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\GptIntegration\GptIntegration.Infra\obj\Debug\net7.0\GptIntegration.Infra.dll
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\GptIntegration\GptIntegration.Infra\obj\Debug\net7.0\refint\GptIntegration.Infra.dll
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\GptIntegration\GptIntegration.Infra\obj\Debug\net7.0\GptIntegration.Infra.pdb
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\GptIntegration\GptIntegration.Infra\obj\Debug\net7.0\ref\GptIntegration.Infra.dll
